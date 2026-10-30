@@ -1,0 +1,12 @@
+# Tested with Python 3.13, both with the latest releases (pandas 3.0, numpy 2.5)
+# and with pandas 2.2 / numpy 2.1.
+numpy>=1.26
+pandas>=2.2
+pyarrow>=14
+scipy>=1.11
+scikit-learn>=1.4
+statsmodels>=0.14
+matplotlib>=3.8
+vaderSentiment>=3.3.2
+jupyter
+pytest
